@@ -14,4 +14,6 @@ Key elements of Web3 include:
 
 6. **Interoperability and Open Protocols**: Web3 promotes interoperability between different blockchain networks and protocols, allowing seamless interaction and data exchange across disparate systems. Open protocols and standards facilitate collaboration and innovation, enabling the development of a vibrant ecosystem of decentralized applications and services.
 
+
+
 Overall, Web3 represents a paradigm shift towards a more inclusive, transparent, and resilient internet infrastructure, where users have greater sovereignty over their digital lives and interactions.
